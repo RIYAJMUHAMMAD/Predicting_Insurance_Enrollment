@@ -1,0 +1,1 @@
+{"gender": {"Female": 0, "Male": 1, "Other": 2}, "marital_status": {"Single": 0, "Divorced": 1, "Married": 2, "Widowed": 3}, "employment_type": {"Part-time": 0, "Full-time": 1, "Contract": 2}, "region": {"West": 0, "Midwest": 1, "Northeast": 2, "South": 3}, "has_dependents": {"No": 0, "Yes": 1}}
